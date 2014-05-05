@@ -5,7 +5,7 @@ depends:
   plugin:
   - gtk
   - settings
-version: '0.0.3'
+version: 0.0.3
 author: 
 name: "グラデーション"
 description: "メッセージの背景をグラデーションさせます。"
